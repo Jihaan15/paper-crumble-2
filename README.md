@@ -1,1 +1,2 @@
-# paper-crumble-2
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
